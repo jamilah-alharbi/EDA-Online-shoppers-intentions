@@ -62,6 +62,9 @@ here the customer adding  revenue in May ,Nov ,Mar more than other months
 # conclousion
 
 The owner should provide Ads in weekdays more than weekend according to our result
+
 The owner should  care about the customers in regions (5,9 and 8)
+
 The owner should give offers to new visitors to attract them and also in  Feb because its corresponding valentine’s day 
+
 The owner should make web site interface and products show  more attractive to increase positive rating on google and increase revenue 
